@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **NestJs**
 
-- 👯 I’m looking to collaborate on **everyone!**
-
-- 🤝 I’m looking for help with **everything!**
+- 👯 I’m looking to collaborate with **everyone!**
 
 - 👨‍💻 All of my projects are available at [https://castioni.vercel.app/](https://castioni.vercel.app/)
 
