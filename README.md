@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/castioniezequiel/](https://www.linkedin.com/in/castioniezequiel/)
 
-- ⚡ Fun fact **i break code to make it work**
+- ⚡ Fun fact: **I break code to make it work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
