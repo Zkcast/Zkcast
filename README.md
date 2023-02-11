@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ezequiel Castioni</h1>
-<h3 align="center">A JavaScript Fullstack developer passionate about technology</h3>
+<h3 align="center">A JavaScript Fullstack developer</h3>
 
 - 🔭 I’m currently working on [Rent-Ten](https://rent-ten.vercel.app/)
 
@@ -14,8 +14,6 @@
 - 📫 How to reach me **castioniezequiel@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/castioniezequiel/](https://www.linkedin.com/in/castioniezequiel/)
-
-- ⚡ Fun fact: **I break code to make it work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
