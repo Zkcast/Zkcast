@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ezequiel Castioni</h1>
 <h3 align="center">A JavaScript Fullstack developer</h3>
 
-- 🔭 I’m currently working on [Rent-Ten](https://rent-ten.vercel.app/)
-
-- 🌱 I’m currently learning **NestJs**
-
-- 👯 I’m looking to collaborate with **everyone!**
-
 - 👨‍💻 All of my projects are available at [https://castioni.vercel.app/](https://castioni.vercel.app/)
 
 - 💬 Ask me about **Javascript.**
