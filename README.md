@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://castioni.vercel.app/](https://castioni.vercel.app/)
 
-- 💬 Ask me about **Javascript.**
-
 - 📫 How to reach me **castioniezequiel@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/castioniezequiel/](https://www.linkedin.com/in/castioniezequiel/)
